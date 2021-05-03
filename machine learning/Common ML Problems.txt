@@ -1,0 +1,26 @@
+Common ML Problems:
+
+Supervised Learning:
+- Range
+- Classification
+
+Unsupervised Learning:
+- Clustering
+- Association
+
+
+Count Matrix:
+"London Paris London" 0 
+"Paris London Paris" 1
+
+London -> 0
+Paris -> 1
+
+(String Index, Word Index)
+(0, 0) 2
+(0, 1) 1
+(1, 0) 1
+(1, 1) 2
+
+    2   1
+    1   2
